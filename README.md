@@ -1,2 +1,1 @@
 One string
-Two string
