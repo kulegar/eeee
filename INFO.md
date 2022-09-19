@@ -1,1 +1,1 @@
-Hello! I'm Yegor. I'm from Rechitsa, in Belarus.
+Hello! I'm Yegor. I'm from Rechitsa, in Belarus
