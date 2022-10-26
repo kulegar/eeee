@@ -1,5 +1,13 @@
 **One string**
 
-__One string__
+*__One string__*
+
+*One string*
+
+One string
+
+One string
+
+One string
 
 One string
