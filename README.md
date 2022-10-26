@@ -33,7 +33,7 @@ dfdf
 
 dfdf
 
-dfdfdfdf[^1]
+dfdfdfdf [^1]
 
 [^1]: 1 dfdfdfd
 
