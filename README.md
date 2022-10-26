@@ -10,7 +10,7 @@
 
 One string `One string One string` One string
 
-***HHHHHHHH***
+<sub>***HHHHHHHH***</sub>
 
 ```
 One string
