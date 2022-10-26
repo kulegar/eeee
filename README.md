@@ -4,7 +4,7 @@
 
 *One string*
 
-One string
+~One string~
 
 One string
 
