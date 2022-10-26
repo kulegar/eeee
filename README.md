@@ -4,7 +4,7 @@
 
 **One string**
 
-*__One string__*
+\*__One string__\*
 
 *One g*
 ~One string~
