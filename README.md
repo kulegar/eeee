@@ -14,7 +14,7 @@
 
 One string `One string One string` One string
 
-<sub>***HHHHHHHH***</sub>
+\***HHHHHHHH\***
 
 ```
 One string
