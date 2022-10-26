@@ -9,6 +9,7 @@
 ~One string~
 
 [OLD](https://www.oxfordlearnersdictionaries.com/)
+![alternate text](https://bit.ly/3ET8tQS)
 
 One string `One string One string` One string
 
