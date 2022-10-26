@@ -35,7 +35,7 @@ dfdf
 
 dfdfdfdf [^1]
 
-[^11 dfdfdfd
+[^1]1 dfdfdfd
 
 ====
 @github/kulegar
