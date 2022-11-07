@@ -62,6 +62,13 @@ dfdfdfdf [^1]
        <tr><td>dfd</td><td>fdf</td></tr>
 </table>
 
+***
+
+---
+
+===
+
+
 <ul>
        <li>fdff</li> 
  </ul>
